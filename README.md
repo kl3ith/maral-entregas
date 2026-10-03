@@ -6,7 +6,3 @@ La entrega vigente se publica en la raíz: https://kl3ith.github.io/maral-entreg
 
 Cada pieza va junto a su caption, con botón para copiar el texto y para descargar el
 archivo original a máxima calidad.
-
-La invitación de *Below the Surface* (segundo aniversario, versión larga) vive en su propia
-carpeta y no toca la entrega vigente: https://kl3ith.github.io/maral-entregas/invitacion-larga/
-Cada invitado recibe su link con `?n=Nombre`; `&modo=whatsapp` confirma por WhatsApp.
